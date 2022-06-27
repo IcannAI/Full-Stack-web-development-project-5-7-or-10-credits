@@ -25,8 +25,14 @@ Finishing the application and grading
 When your application is ready to be graded, register in open university to a course instance that corresponds your working hours
 
 FS project (5 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-cdc701c5-f817-41cc-8b47-ad2cb690c546
+https://studies.helsinki.fi/courses/cur/otm-cdc701c5-f817-41cc-8b47-ad2cb690c546/CSM141091/_Full_Stack_Web_Development_Project
+
 FS project (7 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-a1b99420-600c-42ea-81ab-7bdad3a8800d
+https://studies.helsinki.fi/courses/cur/otm-a1b99420-600c-42ea-81ab-7bdad3a8800d/CSM141092/_Full_Stack_Web_Development_Project
+
 FS project (10 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-67e986ac-78ad-4e2b-aef7-e01cc7f4ec3c
+https://studies.helsinki.fi/courses/cur/otm-67e986ac-78ad-4e2b-aef7-e01cc7f4ec3c/CSM141093/_Full_Stack_Web_Development_Project
+
 Fill this form https://docs.google.com/forms/d/e/1FAIpQLSfJxtLyWugefPSPHynZcZnrsNt4IGqhpr5M7dF5jgZZ6ASqsQ/viewform
 
 and send an email to matti.luukkainen@helsinki.fi
