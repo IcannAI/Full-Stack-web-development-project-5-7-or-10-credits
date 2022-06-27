@@ -1,4 +1,4 @@
-Full Stack -web development project 5, 7 or 10 credits
+# Full Stack -web development project 5, 7 or 10 credits
 In the project you create an application of your choice with React and/or Node. Also a mobile application created with React Native is possible.
 
 The backend for the application does not have to be in Node. Backend does not have to be self made, ready interfaces or services such as Firebase will do. Frontend is also possible to make with some other reasonable way than React, e.g. with Vue.js, in which case it is recommended for the application have a Node backend.
@@ -9,10 +9,10 @@ It is also possible to do the project as a pair or a team.
 
 The telegram channel for the Full Stack Course https://t.me/fullstackcourse works also for this project.
 
-Attending and registering your subject
+## Attending and registering your subject
 There is no need to register for the course if you are using the technologies that the Full stack course covers. If you have doubts, send email to matti.luukkainen@helsinki.fi
 
-Requirements for the returned application
+## Requirements for the returned application
 At the README of your repository has to have a link to an address, where the application is running. If you're creating a mobile application, demo will be scheduled individually.
 
 Also, in the README a link to use instructions and working hours keeping are required. Precision level for time keeping is this. The time keeping must include the total sum of spent hours.
@@ -21,26 +21,23 @@ Time keeping and repository commit history must match each other in reason. Do i
 
 If working with a pair or a group, everyone keeps their own hours.
 
-Finishing the application and grading
+## Finishing the application and grading
 When your application is ready to be graded, register in open university to a course instance that corresponds your working hours
 
-FS project (5 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-cdc701c5-f817-41cc-8b47-ad2cb690c546
+### FS project (5 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-cdc701c5-f817-41cc-8b47-ad2cb690c546
 https://studies.helsinki.fi/courses/cur/otm-cdc701c5-f817-41cc-8b47-ad2cb690c546/CSM141091/_Full_Stack_Web_Development_Project
 
-FS project (7 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-a1b99420-600c-42ea-81ab-7bdad3a8800d
+### FS project (7 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-a1b99420-600c-42ea-81ab-7bdad3a8800d
 https://studies.helsinki.fi/courses/cur/otm-a1b99420-600c-42ea-81ab-7bdad3a8800d/CSM141092/_Full_Stack_Web_Development_Project
 
-FS project (10 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-67e986ac-78ad-4e2b-aef7-e01cc7f4ec3c
+### FS project (10 credits): https://www.avoin.helsinki.fi/palvelut/esittely.aspx?s=otm-67e986ac-78ad-4e2b-aef7-e01cc7f4ec3c
 https://studies.helsinki.fi/courses/cur/otm-67e986ac-78ad-4e2b-aef7-e01cc7f4ec3c/CSM141093/_Full_Stack_Web_Development_Project
 
-Fill this form https://docs.google.com/forms/d/e/1FAIpQLSfJxtLyWugefPSPHynZcZnrsNt4IGqhpr5M7dF5jgZZ6ASqsQ/viewform
-
+### Fill this form https://docs.google.com/forms/d/e/1FAIpQLSfJxtLyWugefPSPHynZcZnrsNt4IGqhpr5M7dF5jgZZ6ASqsQ/viewform
 and send an email to matti.luukkainen@helsinki.fi
 
 In the email you need to specify your student number and GitHub account
-
 If you have a private repository, add users mluukkai and kaltsoon as collaborators.
-
 If your work has more than one repository, add links to other repositories to your main repository readme file.
 
-The project must be returned by 14.3.2023. at 23:59 Finnish time.
+### The project must be returned by 14.3.2023. at 23:59 Finnish time.
